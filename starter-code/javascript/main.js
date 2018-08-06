@@ -62,7 +62,6 @@ function setStartBtn() {
 }
 
 function setResetBtn() {
-    
 }
 
 // Start/Stop Button
